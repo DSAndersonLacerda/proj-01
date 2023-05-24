@@ -5,3 +5,5 @@
 
 # SALVANNDO MODIFICAÇÕES NO GIT 
 #  TESTE DE SINCRONIA DO ARQUIVO
+
+Testando a sincronia entre arquivo e nuvem
